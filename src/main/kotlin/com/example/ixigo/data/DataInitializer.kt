@@ -43,7 +43,7 @@ class DataInitializer(
                     0,
                     "Goa Manali Exp",
                     TrainSearch(
-                        "Goa",
+                        "Vasco-da-Gama",
                         "Manali",
                         "30-07-2024"
                     )
